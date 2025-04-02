@@ -1,2 +1,1 @@
-# Genesis Flow AI Challenge
-Deploy this React app using Vercel.
+# Genesis Flow AI Challenge React Deck
